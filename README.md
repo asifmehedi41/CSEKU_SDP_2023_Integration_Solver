@@ -26,7 +26,7 @@ Project Manager:
       Khulna University, Khulna, Bangladesh
 Developed By:
 
-Faisal Habibi Raim (200223)
+Faisal Habib Raim (200223)
 
 Asif Mehedi Haris (200241) 
 
